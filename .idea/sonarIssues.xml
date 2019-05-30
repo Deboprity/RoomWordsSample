@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/generated/source/apt/debug/android/example/com/roomwordssample/WordDao_Impl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/android/example/com/roomwordssample/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/android/example/com/roomwordssample/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/android/example/com/roomwordssample/NewWordActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/android/example/com/roomwordssample/Word.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/android/example/com/roomwordssample/Word.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/android/example/com/roomwordssample/WordDao.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/android/example/com/roomwordssample/WordListAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/android/example/com/roomwordssample/WordRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/android/example/com/roomwordssample/WordRoomDatabase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/android/example/com/roomwordssample/WordRoomDatabase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/android/example/com/roomwordssample/WordViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/android/example/com/roomwordssample/WordViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/NewWordActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_new_word.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/recyclerview_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Mobile/Android/CurrencyWidget/mybranch24mar/homebanking-android/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Mobile/Android/CurrencyWidget/mybranch24mar/homebanking-android/citibanamex/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Mobile/Android/CurrencyWidget/mybranch24mar/homebanking-android/citibanamex/src/main/java/com/citibanamex/banamexmobile/foreignexchange/data/providers/ForeignExchangeDataInteractor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Mobile/Android/CurrencyWidget/mybranch24mar/homebanking-android/citibanamex/src/main/java/com/citibanamex/banamexmobile/foreignexchange/presentation/fragment/ExchangeCalculateFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Mobile/Android/CurrencyWidget/mybranch24mar/homebanking-android/citibanamex/src/main/java/com/citibanamex/banamexmobile/foreignexchange/presentation/presenter/CurrencyCalculateAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Mobile/Android/CurrencyWidget/mybranch24mar/homebanking-android/citibanamex/src/main/java/com/citibanamex/banamexmobile/foreignexchange/presentation/presenter/ForeignExchangePresenter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Mobile/Android/CurrencyWidget/mybranch24mar/homebanking-android/citibanamex/src/main/java/com/citibanamex/banamexmobile/foreignexchange/presentation/view/ForeignExchangeActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Mobile/Android/CurrencyWidget/mybranch24mar/homebanking-android/citibanamex/src/main/java/com/citibanamex/banamexmobile/foreignexchange/presentation/view/ForexWidgetAppWidgetProvider.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Mobile/Android/CurrencyWidget/mybranch24mar/homebanking-android/citibanamex/src/main/java/com/citibanamex/banamexmobile/softtoken/presentation/presenter/ChallengeWidgetPresenter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Mobile/Android/CurrencyWidget/mybranch24mar/homebanking-android/citibanamex/src/main/java/com/citibanamex/banamexmobile/softtoken/presentation/view/ChallengeWidgetAppWidgetProvider.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Mobile/Android/CurrencyWidget/mybranch24mar/homebanking-android/citibanamex/src/main/res/layout/currency_widget_header_layout.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Mobile/Android/CurrencyWidget/mybranch24mar/homebanking-android/citibanamex/src/main/res/layout/widget_forex_dialog.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Mobile/Android/CurrencyWidget/mybranch24mar/homebanking-android/citibanamex/src/main/res/layout/widget_forex_list_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Mobile/Android/CurrencyWidget/mybranch24mar/homebanking-android/citibanamex/src/main/res/resources/softtoken/layout/activity_challenge_widget_dialog.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Mobile/Android/CurrencyWidget/mybranch24mar/homebanking-android/citibanamex/src/main/res/resources/softtoken/layout/challenge_widget_header_layout.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Mobile/Android/CurrencyWidget/mybranch24mar/homebanking-android/citibanamex/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Mobile/Android/CurrencyWidget/mybranch24mar/homebanking-android/citibanamex/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Mobile/Android/CurrencyWidget/mybranch24mar/homebanking-android/citibanamex/src/test/java/com/citibanamex/banamexmobile/foreignexchange/presentation/presenter/ForeignExchangePresenterTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Mobile/Android/CurrencyWidget/mybranch24mar/homebanking-android/citibanamex/src/test/java/com/citibanamex/banamexmobile/foreignexchange/presentation/view/ForeignExchangeActivityTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
